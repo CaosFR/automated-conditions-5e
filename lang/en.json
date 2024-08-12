@@ -44,5 +44,6 @@
 	"AC5E.OutOfRange": "Out of range",
 	"AC5E.Item": "Item",
 	"AC5E.Equipment": "Equipment",
-	"AC5E.NearbyFoe": "Nearby Foe"
+	"AC5E.NearbyFoe": "Nearby Foe",
+	"AC5E.AlternativeExhaustionModules": "The setting for AC5e's exhaustion automation will be automatically unchecked, either if the module Alternative Exhaustion 5e is active, or if Rest Recovery option for Dnd One Exhaustion is being used!"
 }
