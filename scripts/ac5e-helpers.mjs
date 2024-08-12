@@ -564,7 +564,6 @@ function activeModule(moduleID) {
 	return game.modules.get(moduleID)?.active;
 }
 
-
 export function _canSee(source, target) {
 	//if (game.modules.get('midi - qol')?.active) return MidiQOL.canSee(source, target);
 	if (!source || !target) {
