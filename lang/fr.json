@@ -15,8 +15,14 @@
     "AC5E.AutoArmorSpellUseChoicesOff": "Ne rien faire",
     "AC5E.AutoArmorSpellUseChoicesEnforce": "Imposer",
     "AC5E.AutoArmorSpellUseChoicesWarn": "Avertir",
-    "AC5E.AutoArmorSpellUseChoicesEnforceToast": "ne maîtrise pas l'armure équipée et ne peut pas lancer de sorts. ",
-    "AC5E.AutoArmorSpellUseChoicesWarnToast": "ne maîtrise pas l'armure équipée et ne peut pas lancer de sorts",
+    "AC5E.AutoArmorSpellUseChoicesEnforceToast": "ne maîtrise pas l'armure équipée et ne peut pas incanter un sort. ",
+    "AC5E.AutoArmorSpellUseChoicesWarnToast": "ne maîtrise pas l'armure équipée et ne peut pas incanter un sort.",
+    "AC5E.AutoIncapacitatedSpellUseChoicesEnforceToast": "est neutralisé et ne peut pas incanter un sort. Sort annulé !",
+    "AC5E.AutoIncapacitatedSpellUseChoicesWarnToast": "est neutralisé et ne peut pas incanter un sort.",
+    "AC5E.AutoRagingSpellUseChoicesEnforceToast" : "est enragé et ne peut pas incanter un sort. Sort annulé !",
+    "AC5E.AutoRagingSpellUseChoicesWarnToast": "est enragé et ne peut pas incanter un sort.",
+    "AC5E.AutoSilencedSpellUseChoicesEnforceToast" : "est réduit au silence et ne peut pas incanter un sort avec la composante verbale. Sort annulé !",
+    "AC5E.AutoSilencedSpellUseChoicesWarnToast": "est réduit au silence et ne peut pas incanter un sort avec la composante verbale.",
     "AC5E.AutoRangedAttacksName": "Automatisation des attaques à distance AC5e.",
     "AC5E.AutoRangedAttacksHint": "Lorsque cette case est cochée, AC5e traitera automatiquement le désavantage/l'échec de distance en fonction de la distance cible et des valeurs de portée de l'objet utilisé pour attaquer.",
     "AC5E.AutoRangedNearbyFoeName": "AC5e attaque à distance à proximité de l'automatisation de l'ennemi",
@@ -40,7 +46,10 @@
     "AC5E.DebuggingHint": "Juste quelques journaux utiles pour le débogage lors du développement. Cela n'a probablement pas beaucoup de sens pour les utilisateurs de l'avoir activé :) ",
     "AC5E.WarCaster": "Mage de guerre",
     "AC5E.Fail": "Échouer",
+    "AC5E.Rage": "Rage",
+    "AC5E.Raging": "Enragé",
+    "AC5E.SubtleSpell": "Sort subtil",
     "AC5E.OutOfRange": "Hors de portée",
     "AC5E.Item": "Article",
     "AC5E.Equipment": "Équipement"
-  }
+}
